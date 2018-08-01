@@ -1,0 +1,27 @@
+body{
+	background-image: url('https://i.pinimg.com/originals/fc/50/96/fc5096a3a046cf885d71cbce910bcdb1.jpg');
+	background-size: cover;
+}
+#out{
+	width:450px;
+	height:300px;
+	margin: auto;
+	margin-top: 10%;
+	background: #142238;
+	position: relative;
+}
+#registration{
+	width:450px;
+	top: 0px;
+	position: absolute;
+	text-align: center;
+}
+@font-face {
+	font-family: 'neon';
+    src: url('neon_med.otf');
+}
+h2{
+	font-size: 30px;
+	font-family: neon;
+	color: White;
+}

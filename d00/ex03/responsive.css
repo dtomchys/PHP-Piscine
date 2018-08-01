@@ -1,0 +1,56 @@
+body{
+	background: url(https://invino.com.ua/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/o/vodka-absolut.jpg) no-repeat;
+	background-size: cover;
+	border: 2px solid #000;
+}
+h2{
+  	text-align:center;
+	margin:5px 0;
+	font-size:1.5vw;
+}
+p{
+	margin: 3px;
+	font-size: 1vw;
+}
+p.number{
+}
+p.mass{
+	text-align: right;
+}
+td{
+	width: 5.55555%;
+}
+td.nonmetals{
+	background-color: #d7f872;
+}
+td.noble-gas{
+	background-color: #FE2E9A;
+}
+td.alkali_met{
+	background-color: #FA5882;
+}
+td.alkali_ert_met{
+	background-color: #9A2EFE;
+}
+td.metalloid{
+	background-color: #b9bb7f;
+}
+td.polyatomic{
+	background-color: #8bf8ac;
+}
+td.transition{
+	background-color: #f2a9aa;
+}
+td.post-transition{
+	background-color: #b8b8b8;
+}
+td.lanthanide{
+	background-color: #f2a3f4;
+}
+td.actinide{
+	background-color: #f27ab9;
+}
+td.unknown{
+	background-color: #d7d7d7;
+}
+.men{ margin: 2px; background-size: cover; }

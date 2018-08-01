@@ -1,0 +1,41 @@
+body{margin: 18px 0 0 8px;}
+
+.topchik{ margin: 0 auto; width: 1420px; background-color: #909090; border-radius: 10px; box-shadow: 10px 10px 5px #000000;}
+
+header{ height: 137px; width: 1420px; position: relative;}
+
+header img.reload{position: absolute; top: 5px; right: 10px; height: 20px; width: 20px;}
+
+header img.disconect{position: absolute; bottom: 5px; right: 10px; height: 20px; width: 20px;}
+
+header img.lupa{position: absolute; top: 10px; right: 20px;}
+
+header img.logo{ height: 120px; margin: 10px 0 0 10px;}
+
+.left_menu{ padding: 15px 0 0 32px; float: left; margin: 20px 0 0 30px; width: 108px; height: 400px; background-color: #909090; border-radius: 10px; box-shadow: 10px 10px 5px #000000 }
+
+.red_bord{ border: 5px solid red; border-radius: 5px;}
+
+.cluster{ float:left; position: relative; width: 1020px; height: 582px; background-color: #909090; border-radius: 10px; box-shadow: 10px 10px 5px #000000; margin: 20px 0 0 30px;}
+
+.cluster img{ margin: 10px; width: 1000px; height: 560spx; }
+
+.field{background-color: #909090; border-radius: 10px; box-shadow: 10px 10px 5px #000000; background-color: #82FA58; width: 510px; height: 150px; position: absolute; bottom: -94px; left: -294px; padding: 10px; font-family: arial; font-size: 15px; font-stretch: expanded !important; letter-spacing: 2px; }
+
+.field span.big{ font-family: Times; font-size: 30px;}
+
+.field span.red{ text-shadow: 5px 5px 5px #ff0000 }
+
+.field span.ita{ font-style: italic; }
+
+.field field{ height: 22px; }
+
+.field field input[type="text"]{height: 15px; margin-left: 2px; width: 376px; border: 2px solid #9d969d; border-bottom-color: #eeeeee; border-right-color: #eeeeee;}
+
+.field field input[type="submit"]{border: 1px solid #A8A4A5; border-radius: 1px; background-color: #f4eff3; margin-left: 4px; height: 22px; font-size: 12px;}
+
+.right_menu{ margin: 20px 0 0 30px; padding: 15px 0 0 35px; width: 108px; height: 400px; float: left; background-color: #909090; border-radius: 10px; box-shadow: 10px 10px 5px #000000;}
+
+.right_menu img{width: 70px; margin-bottom: 6px; }
+
+.right_menu .bricks { content: ''; background-image: url('resources/brick.jpg');width: 120px; height: 70px; margin:-5px 0 0 -25px;}

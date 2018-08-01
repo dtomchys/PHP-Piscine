@@ -1,4 +1,6 @@
 <?php
-header('Content-Type: image/png');
-readfile("../img/42.png");
+
+$file = '../img/42.png';
+header('Content-type: image/png');
+readfile($file);
 ?>

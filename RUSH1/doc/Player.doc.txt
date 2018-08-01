@@ -1,0 +1,10 @@
+<- Player ---------------------------------------------------
+This class help to use Player lenght in any place in program
+
+Required values:
+const $player
+
+Method:
+	only one method to get information about class
+
+--------------------------------------------------- Player ->

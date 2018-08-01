@@ -1,0 +1,192 @@
+body{
+	background-image: url('https://i.pinimg.com/originals/e3/30/f9/e330f9d0d2756121f272e643ae91d984.jpg');
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+color: white;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 4px;
+}
+.field {
+	float: right;
+	width: 1500px;
+	height: 1000px;
+	margin-top: 5px;
+	margin-right: 140px;
+	padding: 3px;
+	border: 3px solid blue;
+	color: white;
+}
+
+.box{
+	float: left;
+	width: 8px;
+	height: 8px;
+	border: 1px solid white;
+	opacity:0.8;
+}
+
+#p1{
+	box-shadow: 0px 0px 5px 5px green;
+	border: 1px solid green;
+	background-image: url(https://i.stack.imgur.com/rUYDe.jpg);
+	background-size: cover;
+}
+
+#p2{
+	box-shadow: 0px 0px 5px 5px red;
+	border: 1px solid red;
+	background-image: url('http://vignette3.wikia.nocookie.net/warhammer40k/images/8/88/Chaos_Desolator.jpg');
+	background-size: cover;
+}
+.pl {
+	float: left;
+	width: 8px;
+	height: 8px;
+}
+
+#obs1{
+	border: 1px solid red;
+	background-image: url('https://vignette.wikia.nocookie.net/scribblenauts/images/0/0e/Asteroid.png/revision/latest?cb=20130408211137');
+	background-size: cover;
+}
+
+#obs2{
+	border: 1px solid red;
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLjKcdmKs_by6KO_fNd5Q8xpiVdYiyh2cxvtQ9c-Qj1gYoAVQ');	
+	background-size: cover;
+}
+
+.shoot{
+	float: left;
+	width: 8px;
+	height: 8px;
+	border: 1px solid black;
+	box-shadow: 0px 0px 2px 2px;
+	background-image: url('https://clipart.info/images/ccovers/1495818555huge-fireball-explosion-png-transparent.png');	
+	background-size: cover;	
+}
+
+.obs {
+	float: left;
+	width: 8px;
+	height: 8px;
+	border: 1px solid black;
+	box-shadow: 0px 0px 2px 2px; 
+}
+
+.Table{
+	float: right;
+	width: 700px;
+	height: 500px;
+	padding: 3px;
+	margin-right: 10px;
+	margin-top: 5px;
+	margin-left: 100px;
+	border: 3px solid orange;
+	color: white;
+}
+
+.stat{
+	text-align: center;
+	width: 200px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 3px;
+	color: white;
+	border: 3px solid yellow;	
+}
+
+.cur{
+	margin: auto;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+#kost_txt{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.kost{
+	width: 270px;
+	height: 250px;
+	opacity: 0.9;
+	background-image: url('https://steemit-production-imageproxy-upload.s3.amazonaws.com/DQmVbAbJMLxoTo5sTRNdfSM65nnB7oJkjCZqvFZKbAAZbiF');
+	background-size: cover;
+	color: blue;
+	font-size: 100px;
+	font-family: 'Roboto', sans-serif;
+	margin-left: 210px;
+	margin-top: -40px; 
+}
+
+.btns{
+	/*float: right;*/
+	float: right;
+	display: flex;
+	flex-flow: wrap;
+	margin-left: 100px;
+	margin-right: 10px;
+	margin-top: 5px;
+	width: 705px;
+	height: 100%;
+	border: 3px solid red;
+}
+
+.button {
+	width: 100%;
+	height: 50px;
+	border-radius: 50%;
+	background-color: red;
+	border: solid red;
+	color: white;
+	font-size:  20px;
+}
+
+.up {
+	width: 100px;
+	margin-left: 305px;
+}
+
+.up > a > img {
+	width: 100px;
+}
+
+.mid {
+	margin-left: 200px;
+}
+
+.mid > a > img {
+	width: 100px;
+}
+
+#bottom{
+	margin-bottom: 0;
+}
+#bottom > a {
+	margin-left: 300px;
+}
+
+#bottom > a > img {
+	width: 100px;
+}
+
+.line {
+	margin-left: 40px;
+	width: 100%;
+	border-top: 1px solid white;
+}
+
+.button {
+	width: 100px;
+	margin-left: 300px;
+}
+
+#replay{
+	color: red;
+}

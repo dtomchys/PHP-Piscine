@@ -1,0 +1,163 @@
+body {
+	color: #8f8f8f;
+	font: 12px Tahoma, sans-serif;
+	background-color: #f8f8f8;
+	margin: 0;
+}
+header p{
+	position: relative;
+	float: right;
+	margin: 3px 2px 20px 20px;
+}
+#log{
+	margin: 0px 2px 2px 830px;
+}
+#loh{
+	margin-right: 0;
+}
+#neloh{
+	position: absolute;
+	margin: 3px 40px 40px 2px;	
+}
+input[type="text"] {
+	background-color: #f3f3f3;
+	border: 1px solid #e7e7e7;
+	height: 23px;
+	/*color: #b2b2b2;*/
+	padding: 0 10px;
+	vertical-align: top;	
+}
+input[type="password"] {
+
+	background-color: #f3f3f3;
+	border: 1px solid #e7e7e7;
+	height: 23px;
+	/*color: #b2b2b2;*/
+	padding: 0 10px;
+	vertical-align: top;
+}
+button {
+	color: #fff;
+	background-color: #29c5e6;
+	border: none;
+	height: 25px;
+	font-family: 'Oswald', sans-serif;
+}
+p {
+	margin: 20px 0;
+}
+#wrapper {
+	max-width: 1200px;
+	margin: auto;
+}
+header {
+	background-color: #000101;
+	position: relative;
+	color: white;
+ }
+header img.logo{
+	margin-top: 10px;
+}
+header img.name{
+	height: 160px;
+	width: 470px;
+	margin-left: 40px;
+}
+form[name="./php/sign_in.php"] {
+	float: right;
+	margin: 4px 3px;
+	padding: 0;
+}
+
+
+aside {
+	float: left;
+	width: 250px;
+}
+section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+}
+.aside-menu li {
+	font-weight: 300;
+	list-style-type: square;
+	border-top: 1px solid #e7e7e7;
+}
+
+.aside-menu li:first-child {
+	border: none;
+}
+
+.aside-menu li.active {
+	color: #29c5e6;
+}
+
+.aside-menu a {
+	color: #8f8f8f;
+}
+
+nav a {
+	text-decoration: none;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.center{
+	text-align: center;
+}
+
+nav li {
+	list-style-position: inside;
+	font: 14px 'Oswald', sans-serif;
+	padding: 10px;
+}
+
+.top-menu li {
+	display: inline-block;
+	padding: 10px 30px;
+	margin: 0;
+}
+
+.top-menu li.active {
+	background: #29c5e6;
+	color: #fff;
+}
+
+.top-menu a {
+	color: #b2b2b2;
+}
+blockquote {
+	margin: 0;
+	background: #29c5e6;
+	padding: 10px 20px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
+blockquote p {
+	color: #fff;
+	font-style: italic;
+	font-size: 33px;
+	margin: 0;
+}
+
+blockquote cite {
+	display: block;
+	font-size: 20px;
+	font-style: normal;
+	color: #1d8ea6;
+	margin: 0;
+	text-align: right;
+}
+.alll{
+	display: flex;
+	flex-flow: row wrap;
+	width: 100%;
+}
+.show{
+	width: 20%;
+	margin: 2px;
+}

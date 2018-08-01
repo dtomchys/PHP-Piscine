@@ -1,0 +1,10 @@
+<- Map ---------------------------------------------------
+This class help to use Map lenght in any place in program
+
+Required values:
+const MAP_LENGHT
+
+Method:
+	only one method to get information about class
+
+--------------------------------------------------- Map ->
